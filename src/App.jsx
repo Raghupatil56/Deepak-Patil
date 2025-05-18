@@ -12,9 +12,9 @@ function App() {
       <Navbar />
       <div className="pt-10 text-white font-serif">
         <Routes>
-          <Route path="my-portfolio/" element={<Home />} />  
-          <Route path="my-portfolio/Projectss" element={<Projectss />} />
-          <Route path="my-portfolio/Contact" element={<Contact />} />
+          <Route path="Deepak-Patil/" element={<Home />} />  
+          <Route path="Deepak-Patil/Projectss" element={<Projectss />} />
+          <Route path="Deepak-Patil/Contact" element={<Contact />} />
         </Routes>
       </div>
     </Router>
