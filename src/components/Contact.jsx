@@ -37,7 +37,7 @@ const Contact = () => {
 
         <p className="text-xl md:text-2xl font-bold">
           <a 
-            href="/Deepak-Patil/Raghavendr Patil Resume.pdf" 
+            href="/Deepak-Patil/Deepak Patil Resume.pdf" 
             download 
             className="text-white hover:text-3xl transition-transform duration-200"
           >
